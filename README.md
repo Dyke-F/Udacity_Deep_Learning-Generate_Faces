@@ -7,3 +7,4 @@ The networks are trained on the [CelebFaces Attributes Dataset (CelebA)](http://
 
 It generates imagined celebrity faces looking alike:
 
+All required resources, libraries, code and explanations can be accessed through the `dlnd_face_generation.ipynb` notebook
