@@ -8,7 +8,7 @@ The networks are trained on the [CelebFaces Attributes Dataset (CelebA)](http://
 It generates imagined celebrity faces looking alike:
 ![Generated Set](https://github.com/Dyke-F/Udacity_Deep_Learning-Generate_Faces/blob/master/samples.png)
 
-Loss figures:
+Loss statistics:
 
 ![Loss](https://github.com/Dyke-F/Udacity_Deep_Learning-Generate_Faces/blob/master/loss_statistics.png)
 
